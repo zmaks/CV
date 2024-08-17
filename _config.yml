@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Maksim Zheltoukhob
-title: Senior Java Developer | Full Stack
+name: Maksim Zheltoukhov
+title: Java/Kotlin Developer | Full Stack
 email: m.zheltoukhov@gmail.com
 website: zmaks.gitlab.io
 
@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Maksim and I'm a senior Java developer.
-
-  I am most skilled in: <mark>Java</mark> and <mark>JS</mark>
+  Hi, my name's Maksim and I'm a backend developer at JetBrains.
 
 #content:
 #  - title: Projects # Title for the section
